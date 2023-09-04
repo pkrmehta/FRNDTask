@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:variablePadding="false">
+    <!--그리드 뷰 자체에 기본적으로 있는 padding을 없애기위한 xml파일-->
+</selector>
